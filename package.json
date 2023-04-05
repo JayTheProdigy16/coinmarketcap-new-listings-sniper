@@ -1,0 +1,11 @@
+{
+  "name": "coinmarketcap-new-listings-sniper-bot-main",
+  "version": "1.0.0",
+  "description": "Coinmarketcap new listings sniper bot that uses  telegram notifications from this telegram channel https://t.me/joinchat/bZpsA9yrHmkyZjE0 use this link and subscribe",
+  "main": "cgBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
